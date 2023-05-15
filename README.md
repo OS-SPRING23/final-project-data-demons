@@ -3,13 +3,11 @@
 
 NOTE : Images not loading
 
+report link: [Comparison of Sorting Algorithms between Serial, OpenMP and POSIX.pdf](https://github.com/OS-SPRING23/final-project-data-demons/files/11481195/Comparison.of.Sorting.Algorithms.between.Serial.OpenMP.and.POSIX.pdf)
+
 CS2006 OPERATING SYSTEMS
 
 PROJECT REPORT
-
-
-
-
 
 
 
@@ -125,6 +123,7 @@ The POSIX method is also familiar as it uses the same equations to set a limit f
 
 
 —
+
 
 
 
