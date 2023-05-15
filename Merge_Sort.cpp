@@ -189,7 +189,7 @@ POSIX_thrds = 0 ;
 
 start = high_resolution_clock :: now () ;
 
-    POSIX_Quick_Sort(a3, 0, size-1) ;
+    POSIX_Merge_Sort(a3, 0, size-1) ;
 
 stop = high_resolution_clock :: now () ;
 time = duration_cast<microseconds>( stop - start ) ;
